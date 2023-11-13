@@ -1,0 +1,11 @@
+
+Cocktail sort: 29
+Quick sort: 244
+Shell (2h+1) sort: 31
+Shell (3h+1) sort: 19
+Insertion sort: 29
+Cocktail sort: 29.0
+Shell (3h+1) sort: 19.0
+Quick sort: 12.608695652173912
+Shell (2h+1) sort: 31.0
+Insertion sort: 29.0
